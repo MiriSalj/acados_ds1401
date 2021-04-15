@@ -1,0 +1,364 @@
+The target system is: dSpaceDS1401 -  - ppc
+The host system is: Windows - 10.0.17763 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/bin/mccppc.exe 
+Build flags: ;-H;-J{DSPACE_RTLIB};-IC:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/inc;-D_DS1401;-p603e;-H;-J{DSPACE_RTLIB};-IC:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/inc;-D_DS1401;-p603e
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.abs"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.src"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/bin/mccppc.exe 
+Build flags: ;-H;-J{DSPACE_RTLIB};-IC:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/inc;-D_DS1401;-p603e;-H;-J{DSPACE_RTLIB};-IC:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/inc;-D_DS1401;-p603e
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.src"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/bin/mccppc.exe 
+Build flags: ;-H;-J{DSPACE_RTLIB};-IC:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/inc;-D_DS1401;-p603e;-H;-J{DSPACE_RTLIB};-IC:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/inc;-D_DS1401;-p603e
+Id flags: -Aa 
+
+The output was:
+0
+(W) no file arguments specified
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/bin/mccppc.exe 
+Build flags: ;-H;-J{DSPACE_RTLIB};-IC:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/inc;-D_DS1401;-p603e;-H;-J{DSPACE_RTLIB};-IC:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/inc;-D_DS1401;-p603e
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.abs"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.src"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/bin/mccppc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.abs"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/bin/mccppc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/bin/mccppc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+0
+(W) no file arguments specified
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/bin/mccppc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.abs"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/bin/mccppc.exe 
+Build flags: ;-H;-J{DSPACE_RTLIB};-IC:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/inc;-D_DS1401;-p603e;-H;-J{DSPACE_RTLIB};-IC:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/inc;-D_DS1401;-p603e
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.abs"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.src"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/bin/mccppc.exe 
+Build flags: ;-H;-J{DSPACE_RTLIB};-IC:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/inc;-D_DS1401;-p603e;-H;-J{DSPACE_RTLIB};-IC:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/inc;-D_DS1401;-p603e
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.src"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/bin/mccppc.exe 
+Build flags: ;-H;-J{DSPACE_RTLIB};-IC:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/inc;-D_DS1401;-p603e;-H;-J{DSPACE_RTLIB};-IC:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/inc;-D_DS1401;-p603e
+Id flags: --c++ 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.abs"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.src"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/bin/mccppc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.abs"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/bin/mccppc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/bin/mccppc.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.abs"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/acados/buildDS1401/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/dSPACERCPHIL2017-B/Exe/DSMAKE.EXE cmTC_33507/fast && Building C object CMakeFiles/cmTC_33507.dir/testCCompiler.c.obj
+Linking C executable cmTC_33507.exe
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/acados/buildDS1401/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/dSPACERCPHIL2017-B/Exe/DSMAKE.EXE cmTC_75fc0/fast && Building CXX object CMakeFiles/cmTC_75fc0.dir/testCXXCompiler.cxx.obj
+Linking CXX executable cmTC_75fc0.exe
+
+
+
+The target system is: dSpaceDS1401 -  - ppc
+The host system is: Windows - 10.0.17763 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/bin/mccppc.exe 
+Build flags: ;-H;-J{DSPACE_RTLIB};-IC:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/inc;-D_DS1401;-p603e;-H;-J{DSPACE_RTLIB};-IC:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/inc;-D_DS1401;-p603e
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.abs"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.src"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/bin/mccppc.exe 
+Build flags: ;-H;-J{DSPACE_RTLIB};-IC:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/inc;-D_DS1401;-p603e;-H;-J{DSPACE_RTLIB};-IC:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/inc;-D_DS1401;-p603e
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.src"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/bin/mccppc.exe 
+Build flags: ;-H;-J{DSPACE_RTLIB};-IC:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/inc;-D_DS1401;-p603e;-H;-J{DSPACE_RTLIB};-IC:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/inc;-D_DS1401;-p603e
+Id flags: -Aa 
+
+The output was:
+0
+(W) no file arguments specified
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/bin/mccppc.exe 
+Build flags: ;-H;-J{DSPACE_RTLIB};-IC:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/inc;-D_DS1401;-p603e;-H;-J{DSPACE_RTLIB};-IC:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/inc;-D_DS1401;-p603e
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.abs"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.src"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/bin/mccppc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.abs"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/bin/mccppc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/bin/mccppc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+0
+(W) no file arguments specified
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/bin/mccppc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.abs"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/bin/mccppc.exe 
+Build flags: ;-H;-J{DSPACE_RTLIB};-IC:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/inc;-D_DS1401;-p603e;-H;-J{DSPACE_RTLIB};-IC:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/inc;-D_DS1401;-p603e
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.abs"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.src"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/bin/mccppc.exe 
+Build flags: ;-H;-J{DSPACE_RTLIB};-IC:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/inc;-D_DS1401;-p603e;-H;-J{DSPACE_RTLIB};-IC:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/inc;-D_DS1401;-p603e
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.src"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/bin/mccppc.exe 
+Build flags: ;-H;-J{DSPACE_RTLIB};-IC:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/inc;-D_DS1401;-p603e;-H;-J{DSPACE_RTLIB};-IC:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/inc;-D_DS1401;-p603e
+Id flags: --c++ 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.abs"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.src"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/bin/mccppc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.abs"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/bin/mccppc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/ProgramData/dSPACE/071346EA-BFFA-4465-9551-2E48EDF35320/Compiler/PPCTools/bin/mccppc.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.abs"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/acados/buildDS1401/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/dSPACERCPHIL2017-B/Exe/DSMAKE.EXE cmTC_f0adf/fast && Building C object CMakeFiles/cmTC_f0adf.dir/testCCompiler.c.obj
+Linking C executable cmTC_f0adf.exe
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/acados/buildDS1401/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/dSPACERCPHIL2017-B/Exe/DSMAKE.EXE cmTC_00695/fast && Building CXX object CMakeFiles/cmTC_00695.dir/testCXXCompiler.cxx.obj
+Linking CXX executable cmTC_00695.exe
+
+
+
